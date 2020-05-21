@@ -3,7 +3,9 @@
 A new Flutter application for experimenting with networking using [Dio](https://pub.dev/packages/dio), [RxDart](https://pub.dev/packages/rxdart) and [Bloc](https://www.raywenderlich.com/4074597-getting-started-with-the-bloc-pattern).
 
 <div align="center">
+  <a href="https://amanbindlish.com">
   <img alt="Logo" src="https://user-images.githubusercontent.com/50623363/82434256-2fd5d880-9ac5-11ea-9d2f-8d2db5d18340.png" width="100" />
+  </a>
 </div>
 
 <h2 align="center">
